@@ -6,18 +6,18 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-HMC5883L			KEYWORD1
-MagnetometerRaw		KEYWORD1
+HMC5883L	KEYWORD1
+MagnetometerRaw	KEYWORD1
 MagnetometerScaled	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-ReadRawAxis			KEYWORD2
-ReadScaledAxis		KEYWORD2
+ReadRawAxis	KEYWORD2
+ReadScaledAxis	KEYWORD2
 SetMeasurementMode	KEYWORD2
-SetScale			KEYWORD2
+SetScale	KEYWORD2
 
 XAxis	KEYWORD2
 YAxis	KEYWORD2
